@@ -38,15 +38,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
       <img src="dist/img/university_logo 2.png" style="width:380px; height:100px;">
       <img src="dist/img/forNacomes.jpg" style="width:100px; height:80px;">
   </div>
-
   <!-- Navbar -->
   <nav class="main-header navbar navbar-expand-md navbar-success navbar-dark">
     <div class="container">
 <!--       <a href="index.php" class="navbar-brand">
         <span class="brand-text font-weight-light">KUPTM</span>
       </a> -->
-      
-      <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
@@ -70,7 +68,6 @@ scratch. This page gets rid of all links and provides the needed markup only.
           </li>
         </ul>
       </div>
-
       <!-- Right navbar links -->
       <ul class="order-1 order-md-3 navbar-nav navbar-no-expand ml-auto">
         <li class="nav-item">
